@@ -1,3 +1,5 @@
+![Crime Trends DB](https://github.com/user-attachments/assets/0a8e34ea-cfd6-43fe-acb8-4dd3098e7edf)
+
 # Key Insights: Crime Rate Analysis
 
 # Crime Rate Trends Over Time
